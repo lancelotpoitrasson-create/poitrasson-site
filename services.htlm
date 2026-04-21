@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Services - Poitrasson</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>...</header>
+
+<section class="container">
+  <h1>Nos services</h1>
+
+  <div class="service">
+    <h2>Transport</h2>
+    <p>Solutions de transport adaptées à vos besoins, avec une flotte fiable et performante.</p>
+  </div>
+
+  <div class="service">
+    <h2>Logistique</h2>
+    <p>Gestion optimisée de vos flux pour une efficacité maximale.</p>
+  </div>
+
+  <div class="service">
+    <h2>Distribution</h2>
+    <p>Livraison rapide et sécurisée sur tout le territoire.</p>
+  </div>
+
+</section>
+
+<footer>...</footer>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>À propos - Poitrasson</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>...</header>
+
+<section class="container">
+  <h1>À propos</h1>
+
+  <p>
+    Poitrasson est une entreprise spécialisée dans le transport et la logistique,
+    reconnue pour son sérieux et son engagement auprès de ses clients.
+  </p>
+
+  <p>
+    Notre mission : offrir des solutions fiables, rapides et adaptées à chaque besoin.
+  </p>
+
+</section>
+
+<footer>...</footer>
+
+</body>
+</html>
